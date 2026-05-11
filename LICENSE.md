@@ -1,4 +1,4 @@
-
+Enhance Things 3 for macOS with Things 3 for macOS rare Workflow - goal tracking and custom themes, the #1 workflow. Includes goal tracking and custom themes for a smoother
 
 
 
